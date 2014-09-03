@@ -1,1 +1,54 @@
 /* Empty. Add your own CSS if you like */
+.heading {
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+}
+
+.lead {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.service .button {
+  font-size: 1.4em;
+  text-align: left;
+  padding: 15px 15px;
+  height: 75px;
+  line-height: 2.1em;
+}
+
+.service .images {
+  width: 50px;
+  margin-right: 5px;
+}
+
+.members-list-item img {
+  width: 70px;
+  border-radius: 50%;
+  float: left;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.profile .avatar {
+  border-radius: 50%;
+  padding: 50px 10px;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.social {
+  margin-top: 40px;
+}
+.social-widget {
+  width: 70px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+.social-widget-icon {
+  width: 100%;
+}
